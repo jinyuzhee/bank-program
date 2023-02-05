@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//122106842
+
 public class Bank {
 
     private User[] users = new User[5];
