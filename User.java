@@ -1,4 +1,4 @@
-//122106842
+
 public class User {
 
     private String accountNumber;
